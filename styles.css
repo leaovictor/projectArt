@@ -5,8 +5,22 @@
   
 }
 
-body {
-    background-image: url(./img/mesh-gradient\(1\).png);
+#card-news {
+    margin: 30px;
+    
+
+}
+
+.card {
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+#neymar {
+    background-image: url(./img/priscilla-du-preez-aqGIS55Fjg4-unsplash.jpg);
+    background-size: cover;
+    height: 300px;
+    
 }
 
 a, i {
@@ -15,7 +29,7 @@ a, i {
 }
 
 .secondary-color {
-    color: #afafaf;
+    color: #030303;
 }
 
 .center-image {
@@ -25,7 +39,7 @@ a, i {
 
 .btn {
     text-decoration: none;
-    background-color: #25282e;
+    background-color: #000000;
     color: #fff;
     padding: 7px 18px;
     border-radius: 0;
@@ -33,14 +47,14 @@ a, i {
 }
 
 .btn:hover {
-    background-color: #afafaf;
+    background-color: black;
     color: #fff;
 }
 
 #header {
     text-align: center;
     padding: 20px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #006416;
 
 
 }
@@ -77,7 +91,7 @@ a, i {
 
 #navbar a {
    width: 80px;
-   color: #fff;
+   color: #050505;
    font-style: bold;
 }
 
